@@ -2,9 +2,9 @@
 
 ## 裁剪测试结果
 
-| net  | data                 | caffe deploy time(ms)/GPU memory(MB) | ssd_detect time(ms)/GPU memory(MB) | mAP  | car   | bicycle | motocycle | person | roadblock | speedbump |
-| ---- | -------------------- | ------------------------------------ | ---------------------------------- | ---- | ----- | ------- | --------- | ------ | --------- | --------- |
-| net1 | SAICParking-Selected | 25~26/1559                           | 27～28/1275                        | 0.70 | 0.891 | 0.455   | 0.747     | 0.657  | 0.679     | 0.803     |
+| net  | data | caffe deploy time(ms)/GPU memory(MB) | ssd_detect time(ms)/GPU memory(MB) | mAP  | car  | bicycle | motocycle | person | roadblock | speedbump |
+| ---- | ---- | ------------------------------------ | ---------------------------------- | ---- | ---- | ------- | --------- | ------ | --------- | --------- |
+| net1 |      |                                      |                                    |      |      |         |           |        |           |           |
 
 ## PX2测试结果
 
